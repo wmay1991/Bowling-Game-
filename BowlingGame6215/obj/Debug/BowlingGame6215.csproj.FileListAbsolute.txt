@@ -1,0 +1,6 @@
+c:\users\manifest\documents\visual studio 2013\Projects\BowlingGame6215\BowlingGame6215\bin\Debug\BowlingGame6215.exe.config
+c:\users\manifest\documents\visual studio 2013\Projects\BowlingGame6215\BowlingGame6215\bin\Debug\BowlingGame6215.exe
+c:\users\manifest\documents\visual studio 2013\Projects\BowlingGame6215\BowlingGame6215\bin\Debug\BowlingGame6215.pdb
+c:\users\manifest\documents\visual studio 2013\Projects\BowlingGame6215\BowlingGame6215\obj\Debug\BowlingGame6215.csprojResolveAssemblyReference.cache
+c:\users\manifest\documents\visual studio 2013\Projects\BowlingGame6215\BowlingGame6215\obj\Debug\BowlingGame6215.exe
+c:\users\manifest\documents\visual studio 2013\Projects\BowlingGame6215\BowlingGame6215\obj\Debug\BowlingGame6215.pdb
